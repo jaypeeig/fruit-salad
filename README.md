@@ -8,4 +8,5 @@
 | Frosty		| yelo			   |				|	
 | Dried Mango	| spanish sardines |				|
 
-* SM Link to be encrypted..				
+* SM Link to be encrypted..		
+* [Encrypt / Decrypt Link](http://fruit-salad.herokuapp.com)		
