@@ -2,7 +2,7 @@
 
 | Code          | Alias            | Social Media   |
 | ------------- |:----------------:| --------------:|
-| Guimaras      | rasgima		   |  				|
+| Guimaras      | rasgima		   | YUhSMGNITTZMeTkzZDNjdVptRmpaV0p2YjJzdVkyOXRMMmR5YjNWd2N5OHhOamMzT1RNNU56UTFPRFU1TkRRMkx6OXlaV1k5WW05dmEyMWhjbXR6cGF5YW1hbg== 				|
 | Kilay      	| laikii 	       |    			|
 | Murina 		| rinamoo      	   |     			|
 | Frosty		| yelo			   |				|	
